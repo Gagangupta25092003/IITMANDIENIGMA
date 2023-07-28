@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178390137595",
+    "project_id": "iit-mandi-enigma",
+    "storage_bucket": "iit-mandi-enigma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178390137595:android:7ba39667ddce02ca590e5e",
+        "android_client_info": {
+          "package_name": "com.example.iitmandienigma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178390137595-fotgidltb25cmgqsk4eoi62sqv4cuv2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7EQjF-iq4mpJ57tYNDVG62ppmySjlzAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178390137595-fotgidltb25cmgqsk4eoi62sqv4cuv2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
